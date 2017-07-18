@@ -1,7 +1,7 @@
 # ft_retro
 A Heroic, Climactic Battle against... ascii art.
 
-![Input Img](http://full/path/to/img.jpg)
+![Input Img](https://raw.githubusercontent.com/wobula/C-Game/master/2.png)
 
 ##### Game objectives and rules:
  * Kill as many of the ascii basterds as you can!

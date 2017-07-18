@@ -1,5 +1,15 @@
-# rush_middle_out
-piscine cpp rush 00
+# ft_retro
+A Heroic, Climactic Battle against... ascii art.
 
-### for Robin
-  if you want to mess with the menus and ncurses screens, you can compile the Game.cpp, Environment.cpp, and main.cpp to see what we have so far on the visuals. The rest is still being integrated
+![Input Img](http://full/path/to/img.jpg)
+
+##### Game objectives and rules:
+ * Kill as many of the ascii basterds as you can!
+ * Don't run out of lives
+ * Press Q to access the menu from within the game (up and down to navigate menu)
+
+##### Instructions
+ 1. "make"
+ 2. "./ft_retro"
+ 3. Play : ]
+ * Press Q to access the in-game menu.

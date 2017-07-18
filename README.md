@@ -12,4 +12,3 @@ A Heroic, Climactic Battle against... ascii art.
  1. "make"
  2. "./ft_retro"
  3. Play : ]
- * Press Q to access the in-game menu.
